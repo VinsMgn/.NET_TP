@@ -1,0 +1,11 @@
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.exe
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.deps.json
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.runtimeconfig.json
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.runtimeconfig.dev.json
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.dll
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\bin\Debug\netcoreapp3.1\TpIndividuel.pdb
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\obj\Debug\netcoreapp3.1\TpIndividuel.csprojAssemblyReference.cache
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\obj\Debug\netcoreapp3.1\TpIndividuel.AssemblyInfoInputs.cache
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\obj\Debug\netcoreapp3.1\TpIndividuel.AssemblyInfo.cs
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\obj\Debug\netcoreapp3.1\TpIndividuel.dll
+E:\EPSI\B3\Environnement.NET\tp-individuel\TpIndividuel\TpIndividuel\obj\Debug\netcoreapp3.1\TpIndividuel.pdb
